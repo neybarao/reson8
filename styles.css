@@ -128,7 +128,7 @@ section ul.social li a {
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
-        min-width: 100%;
+        width: 100%;
     }
 
     section h1 {
