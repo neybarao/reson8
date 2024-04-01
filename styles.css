@@ -19,7 +19,7 @@ html {
     height: 100vh;
     width: 100vw;
     color: white;
-    background-color: black;
+    background-color: #09091E;
 }
 
 body {
@@ -35,13 +35,13 @@ body {
 #logo {}
 
 #bg-video {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     min-width: 100vw;
     min-height: 100vh;
     opacity: 0.3;
-    filter: blur(30px);
+    filter: blur(60px);
     z-index: -1;
 }
 
